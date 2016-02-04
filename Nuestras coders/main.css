@@ -1,0 +1,32 @@
+.margen{
+	width:200px;
+	height:5px;
+	background-color:black;
+	margin:20px;
+	margin-left: 3px;
+}
+.img{
+	width:300px;
+	height:300px;
+	position:absolute;
+	
+}
+.imagenesuno{
+
+	display:inline-block;
+	margin:10px;
+	position: relative;
+}
+.imagenesdos{
+
+    display:inline-block;
+	margin:10px;
+	position: relative;
+}
+p{
+	color:white;
+	top:170px;
+	left:80px;
+	width:100%;
+	position:absolute;
+}

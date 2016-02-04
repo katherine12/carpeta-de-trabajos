@@ -1,0 +1,189 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: content-box;
+}
+.container {
+	margin: auto;
+	width: 100%;
+	text-align: center;
+}
+.logo {
+	margin-bottom: 10px;
+	width:700px;
+	height:300px;
+}
+.littletopdown {
+	width: 40px;
+	border: solid grey 2px;
+	margin: 0 auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.parrafo {
+	margin: 0 auto;
+	text-align: center;
+	width: 400px;
+	height: 150px;
+}
+nav {
+	
+	border-top: solid black 2px;
+	border-bottom: solid black 2px;
+	text-align: center;
+	width: 695px;
+	height: 70px;
+	margin-bottom: 40px;
+	display: inline-block;
+	font-size: 33px;
+}
+ul {
+	margin-top: 17px ;
+}
+li {
+	text-decoration: none;
+	display: inline-block;
+}
+.grupo {
+	
+	margin-bottom: 10px;
+	width: 700px;
+}
+p {
+	padding-bottom: 2%;
+	font-size: 20px;
+}
+
+h2 {
+	margin-left: 300px;
+
+}
+.mini {
+	width: 70px;
+	border: solid black 1px;
+	margin-bottom: 30px;
+	margin-top: 20px;
+	margin-left: 300px;
+}
+.fila {
+	width: 1000px;
+	margin-left: 300px;
+}
+.img {
+	width: 250px;
+	height: 250px;
+	display: inline-block;
+	position: relative;
+	margin: 10px;
+}
+.nc {
+	width: 249px;
+	height: 249px;
+	
+	
+}
+
+.nsc {
+	z-index: 200;
+	color: white;
+	text-align: right;
+    width: 180px;
+    height: 20px;
+    position: absolute;
+    left:65px;
+    top: 195px;
+}
+
+
+
+
+
+.margen{
+	height:1300px;
+	width:700px;
+	border: 2px solid grey;
+	margin:auto;
+	margin-top:10px;
+
+}
+img{
+	height:150px;
+	width:150px;
+    margin-top:50px;
+	margin-left:250px;
+
+}
+.titulo{
+	text-align:center;
+	font-size: 25px;
+
+}
+p{
+	text-align:center;
+	margin:55px;
+}
+.subtitulo{
+	color:black;
+	margin-left:-278px;
+}
+
+.cajauno{
+	height:45px;
+	width:400px;
+	background-color:grey ;
+	position:relative;
+	margin:20px;
+	left:20px;
+}
+.cajados{
+	height:45px;
+	width:290px;
+	background-color:grey ;
+	position:relative;
+	margin:20px;
+	left:20px;
+}
+.cajatres{
+	height:45px;
+	width:200px;
+	background-color:grey ;
+	position:relative;
+	margin:40px;
+	left:-40px;
+}
+h3{
+
+	color: white;
+	font-size:20px;
+	margin-left: 10px;
+	padding-top: 10px;
+	}
+.subtitulodos{
+	color:black;
+	margin-left:-308px;
+	margin-top: 77px;
+}
+.contenedor{
+	height:300px;
+	width:600px;
+	position: relative;
+	margin-left:-270px;
+	padding-left:30px; 
+}
+
+.imagen{
+
+	width: 100px;
+	height: 100px;
+	display: inline-block;
+	position:relative;
+	margin-left:80px;
+	bottom:5px;
+	background -sise:;
+}
+
+
+
+
+
+

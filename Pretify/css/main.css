@@ -1,0 +1,95 @@
+* {
+	font-family: Arial;
+	text-align: center;
+}
+header {
+	background: white;
+	position: fixed;
+	width: 100%;
+	z-index: 10;
+}
+li {
+	display: inline-block;
+	margin: 20px;
+	font-size: 15px;
+}
+.link:hover{
+    font-size: 17px;
+    color: #B07593;
+}
+.portada {
+	background: url("../images/background.jpg") no-repeat;
+	background-size: 100% 150%;
+	height: 550px;
+	width: 100%;
+	
+}
+.paisaje {
+	margin: 100px;
+}
+
+section {
+	padding-top: 40px;
+	background: url("../images/tile1.png")repeat;
+	width: 100%
+}
+.second, .tagline {
+	color: white;
+	margin-top: 10px;
+} 
+.second{
+	font-size: 45px;
+}
+.tagline {
+	font-size: 24px;
+}
+
+.biography {
+	font-size: 27px;
+	color: purple;
+	margin: 20px;
+}
+.fot{
+	width: 136px;
+	height: 142px;
+	border: 2px solid #A751E9;
+	position: absolute;
+	left: 36px
+}
+.text {
+	font-size: 15px;
+	text-align: left;
+	margin-left: 205px;
+	margin-bottom: 60px;
+	
+}
+.hobby {
+	font-size: 18px;
+	color: purple;
+}
+.felino {
+	
+	margin: 30px 20px;
+	display: inline-block;
+}
+.kitty {
+	width: 170px;
+	height: 170px;
+	border-radius: 100%;
+	border: solid #A751E9 2px;
+	padding: 4px;
+}
+.finish {
+	background: url("../images/tile2.png")repeat;
+	color: #E6E6E6;
+	width: 100%;
+}
+.biography {
+	margin-top: 50px;
+}
+.red {
+	width: 100px;
+	height: 100px;
+	display: inline-block;
+	margin: 10px 10px; 
+}
